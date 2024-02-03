@@ -136,7 +136,7 @@ th {
 
 td:nth-child(1) {
     width: 100%;
-    overflow: auto;
+    word-break: break-all;
 }
 
 td:nth-child(1) input {
